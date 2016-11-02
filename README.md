@@ -1,2 +1,0 @@
-# MAKETHEWEB
-Mozilla Firefox Event
